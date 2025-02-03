@@ -1,10 +1,7 @@
 # Use "uv" tool for better Python environments.
-#
-# ---
-#
+
 # Install pre-commit tool
 # https://pre-commit.com/#install
-#
 # ? Move to prefligit, when it will support more environments (Node, etc)
 # https://github.com/j178/prefligit
 
