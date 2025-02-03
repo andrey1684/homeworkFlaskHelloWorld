@@ -14,8 +14,7 @@
 # Useful plugins for Justfile:
 # - [JetBrains IDE Plugin](https://plugins.jetbrains.com/plugin/18658-just)
 # - [Other](https://just.systems/man/en/editor-support.html)
-#
-# ---
+
 
 # Install Just
 just-i-install:
