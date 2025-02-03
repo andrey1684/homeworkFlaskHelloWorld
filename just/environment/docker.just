@@ -1,7 +1,6 @@
 # Install Docker Engine and related on Ubuntu:
 # https://docs.docker.com/engine/install/ubuntu/
 # https://docs.docker.com/engine/install/linux-postinstall/
-#
 # Other options:
 # https://docs.docker.com/get-docker/
 

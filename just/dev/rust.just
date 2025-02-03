@@ -1,6 +1,5 @@
 # Install Rust
 # https://www.rust-lang.org/tools/install
-
 # Install Rust
 rust-i-install:
     #!/usr/bin/env bash

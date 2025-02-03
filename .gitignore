@@ -1,0 +1,13 @@
+**
+
+*just
+!.env
+!.gitignore
+!app.py
+!compose.yaml
+!compose.override.yaml
+!compose.override.dev.yaml
+!Dockerfile
+!justfile
+!README.md
+!requirements.txt

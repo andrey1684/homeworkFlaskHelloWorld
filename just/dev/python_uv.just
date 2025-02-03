@@ -1,7 +1,6 @@
 # Install & Update UV for more better Python environments
 # https://docs.astral.sh/uv/getting-started/installation/#standalone-installer
 # Then activate new environment just in place
-
 # Install & Update UV for more better Python environments
 uv-i-install:
     #!/usr/bin/env bash

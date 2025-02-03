@@ -1,5 +1,4 @@
 # Add useful tools for python development.
-#
 # Ruff: Linter/Formatter for Python
 
 # Install ruff

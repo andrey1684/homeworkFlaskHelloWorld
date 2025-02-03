@@ -10,7 +10,6 @@
 # Install via cargo used, because it's more simple and easy to update. Also, it's better installed.
 #
 # ---
-#
 # Useful plugins for Justfile:
 # - [JetBrains IDE Plugin](https://plugins.jetbrains.com/plugin/18658-just)
 # - [Other](https://just.systems/man/en/editor-support.html)
